@@ -1,7 +1,7 @@
 # Decomposition-Export #
 
 ## Steps ## 
-1. Export from your binary (.poly5, .rhd, etc) to format compatible with an Intan reader.
+1. Export from your binary (.poly5, .rhd, etc) to format compatible with a DEMUSE CKC-reader.
 * To use Max 128-ch CKC reader, file must contain the following variables:
   + `uni` - `nChannels` x `nTimesteps` filtered/referenced/cleaned data from all electrodes (`double`). 
   + `sample_rate` - Acquisition sample rate (scalar `double`).
