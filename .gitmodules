@@ -1,0 +1,12 @@
+[submodule "+utils"]
+	path = +utils
+	url = git@github.com:Neuro-Mechatronics-Interfaces/NHP_MATLAB_Utilities.git
+[submodule "+io"]
+	path = +io
+	url = git@github.com:Neuro-Mechatronics-Interfaces/matlab_package__io.git
+[submodule "+TMSiSAGA"]
+	path = +TMSiSAGA
+	url = git@github.com:Neuro-Mechatronics-Interfaces/TMSi_SAGA.git
+[submodule "+ckc"]
+	path = +ckc
+	url = git@github.com:Neuro-Mechatronics-Interfaces/matlab_package__ckc.git
